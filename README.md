@@ -1,4 +1,3 @@
-Hi there!  
 I dream of becoming a developer  
 
 ## Skils
