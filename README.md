@@ -1,23 +1,25 @@
-안녕하세요!
-"끊임없이, 그리고 빠르게 배우는 개발자"를 목표로 성장하고 있는 부민규(BuMinKyoo)입니다.
+안녕하세요! 데스크톱 애플리케이션의 깊이를 탐구하고 매일의 성장을 기록하는 개발자 부민규입니다.
 
-C, C++, C#을 기반으로 데스크톱 애플리케이션을 개발해 왔으며, 현재는 C# WPF를 활용해 복잡한 시스템을 직관적이고 효율적으로 제어하는 클라이언트 개발에 집중하고 있습니다. 기존의 레거시(MFC) 환경에 대한 이해도를 바탕으로, 최신 .NET 환경과 비동기 프로그래밍을 활용한 성능 최적화에 깊은 관심을 두고 있습니다.
+3년 반 동안의 MFC 기반 키오스크 POS 시스템 개발 경험을 거쳐, 현재는 C# WPF를 활용해 다중 CCTV 영상을 처리하고 화면을 동적으로 배치하는 관제 시스템을 개발하고 있습니다. 현업에서의 실무 경험과 더불어 MVVM 패턴, 운영체제, 어셈블리어 등 컴퓨터 공학의 근본적인 원리까지 폭넓게 탐구하며 탄탄하고 유지보수하기 좋은 소프트웨어를 설계하는 데 집중하고 있습니다.
 
 <br>
 
-# 기술 스택 (Tech Stack)
-  - 언어 (Languages) : C, C++, C#
-  - 프레임워크 (Frameworks) : WPF, MFC, .NET Core / .NET
+# 주요 경험 및 성과
+  - WPF 및 영상 관제 시스템: 다양한 CCTV 영상을 화면에 효율적으로 렌더링하고 동적으로 배치하는 다중 채널 관제 시스템 개발 (MVVM 패턴 적극 활용)
+  - MFC 기반 POS 시스템: 3년 6개월간 키오스크 및 POS 시스템 실무 개발을 통해 다져진 안정적인 데스크톱 애플리케이션 아키텍처 설계 역량
+  - 탄탄한 CS 기본기: 운영체제, 자료구조, 알고리즘, 객체지향 프로그래밍(OOP)에 대한 깊은 이해와 어셈블리어를 아우르는 로우레벨 지식 탐구
+  - 꾸준한 기록: GitHub MY_ALL_INDEX 저장소를 통해 매일 공부한 내용을 카테고리별로 체계적으로 문서화 및 자산화
 
-핵심 역량 (Core Skills) :
-  - Task 및 멀티스레딩을 활용한 UI 블로킹 방지 및 비동기 처리 최적화
-  - TCP/IP, UDP 기반의 소켓 통신 및 네트워크 프로토콜 제어
-  - JSON 데이터 핸들링 및 DB 연동
-  - MVVM 디자인 패턴 적용 및 데이터 바인딩
+# 전문 분야
+  - Desktop Frameworks: WPF (MVVM Pattern), MFC, Win32
+  - Programming Languages: C, C++, C#
+  - Computer Science: OS, Data Structure, Algorithm, OOP
+  - Expansion: AI 기술에 대한 깊은 관심 및 지속적인 학습
 
-## Skils
+# 주요 학습 및 지식 저장소
+  - Computer Science: 기본기부터 심화까지, 컴퓨터 공학 전반의 핵심 지식 기록
+  - Framework: MFC, WPF 등 실무 프레임워크의 구조적 패턴과 최적화 기법 정리
+  - Language: C, C++, C#의 언어적 특성과 어셈블리어의 기본적 이해, 하드웨어/소프트웨어 상호작용 탐구
+  - AI: 인공지능 분야의 최신 트렌드와 기초 개념 학습 기록
 
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=C-sharp&logoColor=white"/>
-
-
-<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+단순히 기능이 동작하는 것을 넘어, 운영체제 수준의 이해도를 바탕으로 프레임워크의 구조적 이점을 극대화하는 개발을 지향합니다. 인공지능 등 새로운 기술 트렌드에도 늘 호기심을 갖고 다가가며, 꾸준한 기록을 통해 어제보다 더 나은 로직을 만들어내는 개발자가 되겠습니다. 함께 성장해 나가기를 기대합니다!
